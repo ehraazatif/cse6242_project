@@ -1,1 +1,0 @@
-once the data is processed and we have categorized all products (as possible), create a visualization (most likely some kind of tree diagram)
