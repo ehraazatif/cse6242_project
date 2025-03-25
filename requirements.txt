@@ -1,0 +1,5 @@
+pandas
+numpy
+tf-keras
+re
+sentence_transformers
